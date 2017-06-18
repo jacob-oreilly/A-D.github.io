@@ -6,6 +6,8 @@ body{
 	background-size: cover;
 	
 	background-attachment: fixed;
+	
+	margin: auto;
 }
 
 .header {
