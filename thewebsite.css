@@ -108,6 +108,9 @@ div.Media{
    
    .About{
 	   margin: auto;
+	   display: flex;
+	   text-align: center;
+	   justify-content: center;
    }
    
    .header{
