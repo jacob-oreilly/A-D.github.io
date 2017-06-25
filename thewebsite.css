@@ -115,6 +115,8 @@ div.Media{
    
    .header{
 	   margin: auto;
+	   display: flex;
+	   justify-content;
    }
     
 	.media{
