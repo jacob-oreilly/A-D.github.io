@@ -35,6 +35,7 @@ body{
 .nav ul li{
 	list-style: none;
 	display: inline-box;
+	font-family: Arial Rounded MT;
 }
 
 
