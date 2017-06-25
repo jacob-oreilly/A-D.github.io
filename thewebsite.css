@@ -168,6 +168,10 @@ div.Contact{
 	position: fixed;
 	bottom: 0px;
 	right: 0px;
+	
+}
+
+.Top{
 	background: rgba(0,0,0,.3);
 }
 
