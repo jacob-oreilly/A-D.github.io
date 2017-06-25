@@ -35,7 +35,6 @@ body{
 #nav li{
 	list-style: none;
 	display: inline-box;
-	font-family: Arial Rounded MT Bold;
 }
 
 
@@ -47,7 +46,6 @@ body{
 	display: block;
 	font-size: 150%;
 	border: none;
-	font-family: Arial Rounded MT Bold;
 }
 
  .nav a:hover{
@@ -170,6 +168,7 @@ div.Contact{
 	position: fixed;
 	bottom: 0px;
 	right: 0px;
+	background: rgba(0,0,0,.3);
 }
 
 .Top:hover{
