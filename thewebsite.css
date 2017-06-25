@@ -8,9 +8,8 @@ body{
 	background-attachment: fixed;
 	
 	background-position: center;
-	
-	/*background-size: 100% 100%;
 }
+
 
 .header {
 	display: flex;
@@ -19,8 +18,11 @@ body{
 	margin: auto;
 }
 
+
 .nav {
 	background: rgba(225,225,225,0.2);
+
+	
 }
 
 .nav ul{
@@ -37,7 +39,7 @@ body{
 
 .nav a {
 	text-decoration: none;
-	 text-align: center; 
+	text-align: center; 
 	color: white;
 	display: block;
 	font-size: 150%;
@@ -107,16 +109,15 @@ div.Media{
    }
    
    .About{
-	   margin: auto;
 	   display: flex;
+	   margin: auto;
 	   text-align: center;
 	   justify-content: center;
+	   min-width: 100px;
    }
    
    .header{
 	   margin: auto;
-	   display: flex;
-	   justify-content;
    }
     
 	.media{
