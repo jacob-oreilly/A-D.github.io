@@ -46,6 +46,7 @@ body{
 	display: block;
 	font-size: 150%;
 	border: none;
+	font-family: Arial Rounded;
 }
 
  .nav a:hover{
