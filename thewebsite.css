@@ -32,7 +32,7 @@ body{
 	padding: 0;
 }
 
-.nav ul li{
+#nav li{
 	list-style: none;
 	display: inline-box;
 	font-family: Arial Rounded MT Bold;
