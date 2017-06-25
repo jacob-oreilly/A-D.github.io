@@ -97,7 +97,7 @@ div.Media{
 	margin-top: 40px;
 }
 
-@media and screen(max-width: 1200px){
+@media and screen(max-width: 414px){
    .media2{
 	margin-top: 40px;
    }
